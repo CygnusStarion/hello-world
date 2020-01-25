@@ -1,3 +1,9 @@
+Hello World! Wishing you the best. Peace, love and equality!
+
+Cygnus ~ Constellation and the Greek. Starion ~ Mitsubishi Starion, my first car. As well as Star & Ion.  ;) (aka Joshua Gray). 
+
+
+
 # Savvy Coders Project Boilerplate Starter Kit
 
 ## Overview
